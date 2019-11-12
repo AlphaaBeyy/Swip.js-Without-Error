@@ -12,9 +12,9 @@ Step By Step Setup
 npm install webpack webpack-cli -g
 npm install
 npm install babel-loader@7 babel-core -D
-
+```
 Then modify your webpack.config.js so that it looks like this:
-
+```bash
 const path = require('path');
 
 module.exports = {
@@ -39,7 +39,8 @@ module.exports = {
     ],
   },
 };
-
+```
+```bash
 cd examples/golf
 npm install
 cd ../particles
