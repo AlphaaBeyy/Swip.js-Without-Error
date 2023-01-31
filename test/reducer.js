@@ -1,10 +1,10 @@
-/* global describe it beforeEach */
+
 const _ = require('lodash');
 /*eslint-disable*/
 const should = require('should');
 const sinon = require('sinon');
 require('should-sinon');
-/*eslint-enable*/
+
 const update = require('immutability-helper');
 const createReducer = require('../src/server/reducer');
 const actions = require('../src/server/actions');
