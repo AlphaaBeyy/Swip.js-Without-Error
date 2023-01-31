@@ -1,11 +1,11 @@
 
-This is a project organized by Paul Sonnentag and Tim Großmann.
+Bu, Paul Sonnentag ve Tim Großmann tarafından düzenlenen bir projedir. Düzenleme ve Ek Hata Düzeltmeleri Tarafımca Yapılmıştır.
 
-The Latest Version of the Shared Project is Incorrect and Since the Project is No longer Developed Errors Fixed and Published Here
+Paylaşılan Projenin Son Versiyonu Hatalı ve Proje Artık Geliştirilmediğinden Hatalar Düzeltilip Burada Yayınlanmaktadır
 
-The project is Open Source. You can develop and use it without any charge
+Proje Açık Kaynaklıdır. Herhangi bir ücret ödemeden geliştirebilir ve kullanabilirsiniz.
 
-Step By Step Setup
+Adım Adım Kurulum
 
 ###### Setup
 ```bash
